@@ -1,0 +1,42 @@
+# MATLAB
+
+# Compiled MEX files
+*.mex*
+*.mexa64
+*.mexmaci64
+*.mexw64
+
+# Simulink autosave
+*.autosave
+
+# Simulink code generation
+slprj/
+
+# MATLAB code generation
+codegen/
+
+# MATLAB temporary files
+*.asv
+*.m~
+
+# MATLAB log files
+*.log
+
+# Octave session info
+octave-workspace
+
+# Data files (uncomment as needed)
+# *.mat
+# *.fig
+# *.csv
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
